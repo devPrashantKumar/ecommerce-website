@@ -31,5 +31,9 @@ This is my first full e-commerce project, i made during DBMS Course.
 (iii) Delete Product <br>
 (iv) Confirm Order <br>
 
+### Admin
+Access user portal  http://localhost/E-Commerce-Website <br>
+Access admin portal http://localhost/E-Commerce-Website/admin <br>
+
 ### Requirements
 (i) Use XAMPP 5.6 for this project.
