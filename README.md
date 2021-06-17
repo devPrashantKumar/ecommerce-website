@@ -31,7 +31,7 @@ This is my first full e-commerce project, i made during DBMS Course.
 (iii) Delete Product <br>
 (iv) Confirm Order <br>
 
-### Admin
+### admin and user access
 Access user portal  http://localhost/E-Commerce-Website <br>
 Access admin portal http://localhost/E-Commerce-Website/admin <br>
 
